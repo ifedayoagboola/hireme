@@ -1,0 +1,208 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.header {
+  background: #E0EBE8;
+  padding: 28px 0;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.logo img{
+  width: 60px;
+  margin-right: 500px;
+}
+.links{
+  float: right;
+  margin-right: 100px;
+}
+
+.header a {
+  text-decoration: none;
+  color: #4AB19A;
+  margin: 0 30px;
+  font-size: 18px;
+}
+
+.header a:hover {
+  color: #fff;
+}
+
+h1 {
+  color: #4AB19A;
+  font-family: 'Nunito', sans-serif;
+  font-size: 50px;
+  font-weight: lighter;
+}
+h2{
+   font-family: 'Nunito', sans-serif;
+}
+
+.top-container p {
+  font-family: 'Nunito', sans-serif;
+  color: #4AB19A;
+  font-size: 25px;
+}
+.top-container h1{
+  font-size: 60px;
+}
+
+.top-container {
+  background: #E0EBE8;
+  position: relative;
+  padding-top: 10px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+  width: 120px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  width: 120px;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain {
+  padding: 0;
+  position: relative;
+}
+
+.my-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.middle-container {
+  padding: 100px;
+}
+
+.middle-container h2 {
+  color: #4AB19A;
+}
+
+.profile {
+  width: 65%;
+  margin: auto;
+}
+
+.profile p {
+  font-size: 18px;
+  width: 60%;
+  margin: auto;
+  font-family: 'Nunito', sans-serif;
+}
+
+hr {
+  border: dotted grey 6px;
+  width: 8%;
+  border-bottom: none;
+  margin: 100px auto 100px;
+}
+
+.skills {
+  width: 65%;
+  margin: auto;
+}
+
+.gif {
+  width: 150px;
+  float: left;
+}
+
+.skill-head {
+  margin: 50px;
+}
+
+.skill-text {
+  margin-left: 40%;
+  text-align: left;
+  margin-bottom: 80px;
+}
+
+.skill-text p {
+  font-size: 20px;
+}
+
+.gif2 {
+  width: 150px;
+  float: right;
+}
+
+.skill-text2 {
+  margin-right: 40%;
+  text-align: left;
+}
+
+.skill-text2 p {
+  font-size: 20px;
+}
+
+.contact {
+  width: 65%;
+  margin: auto;
+}
+
+.contact p {
+  font-size: 20px;
+}
+
+button {
+  background-color: #3EA08A;
+  color: #29836B;
+  border: 1px solid;
+  padding: 12px;
+  width: 170px;
+  border-radius: 5px;
+  font-size: 17px;
+}
+
+.fa-envelope {
+  color: #29836B;
+  margin-right: 5px;
+}
+
+button a {
+  text-decoration: none;
+  color: #29836B;
+}
+
+button a:hover {
+  color: #fff;
+}
+
+.bottom-container {
+  background-color: #C5DED7;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.bottom-container a {
+  text-decoration: none;
+  color: #29836B;
+  margin: 35px;
+  font-size: 18px;
+}
+
+.bottom-container a:hover {
+  color: #fff;
+}
+
+.bottom-container p {
+  color: #29836B;
+  font-size: 14px;
+  margin-top: 40px;
+  margin-bottom: 0;
+}
+
+.bottom-container p a {
+  margin: 0;
+}
